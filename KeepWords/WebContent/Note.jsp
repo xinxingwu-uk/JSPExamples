@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=GB18030"
+    pageEncoding="GB18030"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<body>
+<form method="post" action="NoteInsert.jsp">
+<br>–’√˚£∫
+<input name=username size=15 value="">
+<br>” œ‰£∫
+<input name=email size=15 value="">
+<br>¡Ù—‘£∫
+<br>
+<textarea name=doc rows="5" cols="40">
+</textarea>
+<br>
+<input type=submit value="µ›Ωª">
+<input type=reset value="÷ÿÃÓ">
+</form>
+</body>
+</html>
